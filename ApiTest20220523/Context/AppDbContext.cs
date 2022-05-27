@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApiTest20220523.Context
 {
-    public class AppDbContext :DbContext
+    public class AppDbContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
