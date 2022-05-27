@@ -2,5 +2,6 @@
 
 [JWT Token Authentication In ASP.NET Core 6 Web API Using Three Tier Architecture](https://www.c-sharpcorner.com/article/jwt-token-authentication-in-asp-net-core-6-web-api-using-three-tier-architecture/)
 
+[How To Add JWT Bearer Token Authorization Functionality In Swagger?](https://www.c-sharpcorner.com/article/how-to-add-jwt-bearer-token-authorization-functionality-in-swagger/)
 
 [How to get values from appsettings.json in a console application using .NET Core?](https://stackoverflow.com/questions/65110479/how-to-get-values-from-appsettings-json-in-a-console-application-using-net-core)
